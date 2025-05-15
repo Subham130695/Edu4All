@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 EduMitra: AI-Powered Personalized Learning Platform
 
 🌟 EduMitra is a revolutionary web application that transforms the way people learn by leveraging cutting-edge AI technology to create personalized, distraction-free, and engaging learning experiences.
@@ -163,3 +164,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 🌟 Star this repository if you find it helpful! 🌟  
 ✅ Happy Learning with EduMitra! 🚀
+=======
+# Edu4All
+>>>>>>> 59a303e38472abfa10cbf4021d3bbaa08bf73a94
